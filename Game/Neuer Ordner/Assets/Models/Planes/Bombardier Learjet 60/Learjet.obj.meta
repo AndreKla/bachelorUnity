@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 642dfdf838df9694a87529ed2cc29b16
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Learjet_Aces_2_Learjet Fbx_Root
+    100004: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_F
+    100006: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_L
+    100008: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_R
+    100010: Learjet_Fbx_Root Learjet_Body Learjet_HN
+    100012: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Aces
+    100014: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FL Null_Body_Gear_Cap_FL
+    100016: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FR Null_Body_Gear_Cap_FR
+    100018: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L1 Null_Body_Gear_Cap_L1
+    100020: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L2 Null_Body_Gear_Cap_L2
+    100022: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R1 Null_Body_Gear_Cap_R1
+    100024: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R2 Null_Body_Gear_Cap_R2
+    100026: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_L Null_Elevator_L
+    100028: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_R Null_Elevator_R
+    100030: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_L
+    100032: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_R
+    100034: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_FL_Rudder
+    100036: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_L1 Null_Flap_L1
+    100038: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_R1 Null_Flap_R1
+    400000: //RootNode
+    400002: Learjet_Aces_2_Learjet Fbx_Root
+    400004: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_F
+    400006: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_L
+    400008: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_R
+    400010: Learjet_Fbx_Root Learjet_Body Learjet_HN
+    400012: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Aces
+    400014: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FL Null_Body_Gear_Cap_FL
+    400016: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FR Null_Body_Gear_Cap_FR
+    400018: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L1 Null_Body_Gear_Cap_L1
+    400020: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L2 Null_Body_Gear_Cap_L2
+    400022: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R1 Null_Body_Gear_Cap_R1
+    400024: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R2 Null_Body_Gear_Cap_R2
+    400026: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_L Null_Elevator_L
+    400028: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_R Null_Elevator_R
+    400030: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_L
+    400032: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_R
+    400034: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_FL_Rudder
+    400036: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_L1 Null_Flap_L1
+    400038: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_R1 Null_Flap_R1
+    2300000: Learjet_Aces_2_Learjet Fbx_Root
+    2300002: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_F
+    2300004: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_L
+    2300006: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_R
+    2300008: Learjet_Fbx_Root Learjet_Body Learjet_HN
+    2300010: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Aces
+    2300012: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FL Null_Body_Gear_Cap_FL
+    2300014: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FR Null_Body_Gear_Cap_FR
+    2300016: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L1 Null_Body_Gear_Cap_L1
+    2300018: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L2 Null_Body_Gear_Cap_L2
+    2300020: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R1 Null_Body_Gear_Cap_R1
+    2300022: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R2 Null_Body_Gear_Cap_R2
+    2300024: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_L Null_Elevator_L
+    2300026: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_R Null_Elevator_R
+    2300028: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_L
+    2300030: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_R
+    2300032: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_FL_Rudder
+    2300034: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_L1 Null_Flap_L1
+    2300036: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_R1 Null_Flap_R1
+    3300000: Learjet_Aces_2_Learjet Fbx_Root
+    3300002: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_F
+    3300004: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_L
+    3300006: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_R
+    3300008: Learjet_Fbx_Root Learjet_Body Learjet_HN
+    3300010: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Aces
+    3300012: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FL Null_Body_Gear_Cap_FL
+    3300014: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FR Null_Body_Gear_Cap_FR
+    3300016: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L1 Null_Body_Gear_Cap_L1
+    3300018: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L2 Null_Body_Gear_Cap_L2
+    3300020: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R1 Null_Body_Gear_Cap_R1
+    3300022: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R2 Null_Body_Gear_Cap_R2
+    3300024: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_L Null_Elevator_L
+    3300026: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_R Null_Elevator_R
+    3300028: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_L
+    3300030: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_R
+    3300032: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_FL_Rudder
+    3300034: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_L1 Null_Flap_L1
+    3300036: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_R1 Null_Flap_R1
+    4300000: Learjet_Aces_2_Learjet Fbx_Root
+    4300002: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_F
+    4300004: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_L
+    4300006: Learjet_Aces_2_Learjet Fbx_Root Learjet_Gear_R
+    4300008: Learjet_Fbx_Root Learjet_Body Learjet_HN
+    4300010: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Aces
+    4300012: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FL Null_Body_Gear_Cap_FL
+    4300014: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_FR Null_Body_Gear_Cap_FR
+    4300016: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L1 Null_Body_Gear_Cap_L1
+    4300018: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_L2 Null_Body_Gear_Cap_L2
+    4300020: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R1 Null_Body_Gear_Cap_R1
+    4300022: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Body_Gear_Cap_R2 Null_Body_Gear_Cap_R2
+    4300024: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_L Null_Elevator_L
+    4300026: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Elevator_R Null_Elevator_R
+    4300028: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_L
+    4300030: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Engine_Rot_R
+    4300032: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_FL_Rudder
+    4300034: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_L1 Null_Flap_L1
+    4300036: Learjet_Fbx_Root Learjet_Body Learjet_HN Learjet_Flap_R1 Null_Flap_R1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

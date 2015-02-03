@@ -1,0 +1,118 @@
+newmtl learjet_blackSG
+illum 4
+Kd 0.18 0.18 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 2046.00
+newmtl learjet_blueSG
+illum 4
+Kd 0.05 0.33 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.53 0.53 0.53
+Ns 4.45
+newmtl learjet_bodySG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm 0.3 1 body-diff.jpg
+bump body-bump.jpg -bm 0.01
+Ni 1.50
+Ks 0.30 0.30 0.30
+Ns 3.49
+newmtl learjet_chromeSG
+illum 4
+Kd 0.30 0.30 0.30
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.89 0.89 0.89
+Ns 44.69
+newmtl learjet_gearSG
+illum 4
+Kd 0.70 0.70 0.70
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.32 0.32 0.32
+Ns 11.50
+newmtl learjet_gear_chromeSG
+illum 4
+Kd 0.41 0.41 0.41
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.89 0.89 0.89
+Ns 44.69
+newmtl learjet_gear_tireSG
+illum 4
+Kd 0.24 0.24 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.19 0.19 0.19
+Ns 4.79
+newmtl learjet_glassSG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+Ni 1.50
+Ks 1.00 1.00 1.00
+Ns 24.76
+newmtl learjet_insideSG
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 2046.00
+newmtl learjet_redSG
+illum 4
+Kd 0.78 0.04 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.56 0.56 0.56
+Ns 5.16
+newmtl learjet_rubberSG
+illum 4
+Kd 0.19 0.19 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.59 0.59 0.59
+Ns 1.71
+newmtl learjet_tailSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm 0.3 1 tail-dif.jpg
+bump tail-bump.jpg -bm 0.01
+Ni 1.50
+Ks 0.30 0.30 0.30
+Ns 3.49
+newmtl learjet_wingSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm 0.3 1 wing-dif.jpg
+bump wing-bump.jpg -bm 0.01
+Ni 1.50
+Ks 0.30 0.30 0.30
+Ns 3.49
+newmtl learjet_wing_lightSG
+illum 4
+Kd 0.78 0.78 0.71
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 2046.00
